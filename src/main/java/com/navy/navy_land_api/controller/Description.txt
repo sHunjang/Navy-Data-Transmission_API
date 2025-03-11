@@ -1,0 +1,4 @@
+** Presentation 계층 **
+
+● Controller
+    - HTTP 요청을 받고 해당 요청을 비즈니스 계층으로 전송하는 역할
